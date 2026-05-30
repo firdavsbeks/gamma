@@ -1,0 +1,6 @@
+{
+  "name": "Fitnes va Kaloriya Kundaligi",
+  "description": "Mashg'ulotlar rejasi va kaloriya hisoblagichiga ega aqlli mobil fitness yordamchisi (AI Coach)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
